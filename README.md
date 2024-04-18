@@ -35,3 +35,4 @@ Allows any user to search for a word/category and get back quotes with that word
          2. Home screen - list of posts based on user input
          3. List of posts based on user input - home screen
          4. Saved posts - home screen 
+![finalProjectOutline](https://github.com/one-piece-finder1/FinalProject/assets/151676614/dfd60e99-5f14-4a0d-9e58-aa500337fbc9)
