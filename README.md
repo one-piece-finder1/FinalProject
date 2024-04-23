@@ -36,3 +36,15 @@ Allows any user to search for a word/category and get back quotes with that word
          3. List of posts based on user input - home screen
          4. Saved posts - home screen 
 ![finalProjectOutline](https://github.com/one-piece-finder1/FinalProject/assets/151676614/dfd60e99-5f14-4a0d-9e58-aa500337fbc9)
+
+## Sprints
+Completed:
+App successfully gets a list of quotes from an API and displays them in a Table View.
+
+<div>
+    <a href="https://www.loom.com/share/47b88311290a4cd4824e3b708e02a233">
+    </a>
+    <a href="https://www.loom.com/share/47b88311290a4cd4824e3b708e02a233">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/47b88311290a4cd4824e3b708e02a233-with-play.gif">
+    </a>
+</div>
