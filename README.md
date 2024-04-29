@@ -16,7 +16,7 @@ Allows any user to search for a word/category and get back quotes with that word
 ## Product Spec
 - **Required/Must-have Stories** 
   1. User can search for a motivational quote by inputting a keyword.
-  2. User can save the quote they like under the appropriate category.
+  2. User can save the quotes they like under the appropriate category.
   3. User can keep track of what quotes they have saved and not double-save existing quotes.
 
 - **Optional Stories** 
