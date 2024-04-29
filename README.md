@@ -38,6 +38,17 @@ Allows any user to search for a word/category and get back quotes with that word
 ![finalProjectOutline](https://github.com/one-piece-finder1/FinalProject/assets/151676614/dfd60e99-5f14-4a0d-9e58-aa500337fbc9)
 
 ## Sprints
+Completed: 
+App successfully gets a list of quotes from an API, displays them in a Table View. When clicked on the 'Save' button, it saves the quote in a list which the user can take a look at by navigating to the 'Saved' tab.
+
+<div>
+    <a href="https://www.loom.com/share/8bfd1597f73b43beb5792920f03aef07">
+    </a>
+    <a href="https://www.loom.com/share/8bfd1597f73b43beb5792920f03aef07">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/8bfd1597f73b43beb5792920f03aef07-with-play.gif">
+    </a>
+  </div>
+
 Completed:
 App successfully gets a list of quotes from an API and displays them in a Table View.
 
